@@ -1,0 +1,34 @@
+body {
+    font-family: 'Montserrat';
+    text-align: center;
+    background-image: url(white-cloud-blue-sky.jpg);
+    background-size:cover;
+    color: beige;
+}
+.search-container {
+    margin: 50px 50px;
+    font-size: 60px;
+    text-shadow: 5px 5px 10px grey;
+}
+
+#city-input {
+    padding: 15px 20px;
+    width: 50%;
+    border-radius: 15px;
+    border: none;
+    border-bottom: 2px solid grey;
+    font-family: 'Montserrat';
+}
+
+button {
+    padding: 12px;
+    border: none;
+    background-color: aqua;
+    border-radius: 15px;
+    color: grey;
+    font-family: 'Montserrat';
+}
+
+#weather-info {
+    text-shadow: 2px 2px 3px grey;
+}
